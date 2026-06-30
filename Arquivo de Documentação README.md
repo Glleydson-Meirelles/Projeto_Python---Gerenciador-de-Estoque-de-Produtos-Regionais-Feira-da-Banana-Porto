@@ -1,8 +1,8 @@
-# 📦 Gerenciador de Estoque de Produtos Regionais (Porto de Manaus / Feira da Banana)
+# Gerenciador de Estoque de Produtos Regionais (Porto de Manaus / Feira da Banana)
 
 Este projeto foi desenvolvido como requisito avaliativo para a disciplina de **Programação em Python (AV4)** no **Curso Técnico em Inteligência Artificial**. Trata-se de uma aplicação em linha de comando (CLI) projetada para otimizar a gestão e logística interna de pequenos comerciantes locais que operam com produtos da biodiversidade amazônica (como açaí, farinha, cupuaçu e castanhas).
 
-## 🚀 Objetivo do Projeto
+## Objetivo do Projeto
 
 Atender às necessidades operacionais de feirantes do Porto de Manaus:
 
@@ -12,7 +12,7 @@ Atender às necessidades operacionais de feirantes do Porto de Manaus:
 
 \---
 
-## 🧠 Lógica Computacional Implementada
+## Lógica Computacional Implementada
 
 O sistema adota boas práticas de engenharia de software e otimização para IA:
 
