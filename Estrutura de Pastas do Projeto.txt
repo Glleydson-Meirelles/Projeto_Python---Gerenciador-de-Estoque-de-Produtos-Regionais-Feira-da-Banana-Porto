@@ -1,0 +1,5 @@
+gerenciador-estoque-regional/
+│
+├── estoque_regional.py       # Script principal limpo e documentado com os IDs
+├── README.md                 # Explicação e lógica computacional para a banca
+└── requirements.txt          # Gerenciamento de dependências
