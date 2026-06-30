@@ -37,5 +37,15 @@ A função de Recomendação Inteligente implementa a abordagem clássica da IA 
 
 \---
 
-## 
+## Instruções de Execução
+
+### Pré-requisitos
+* Python 3.8 ou superior instalado.
+
+### Executando a Aplicação
+1. Salve o script principal como `estoque_regional.py`.
+2. Abra o seu terminal de comando no mesmo diretório do arquivo.
+3. Instale o ambiente de requisitos (caso necessário):
+   ```bash
+   pip install -r requirements.txt
 
