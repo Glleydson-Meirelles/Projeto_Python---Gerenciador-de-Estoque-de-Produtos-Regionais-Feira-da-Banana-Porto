@@ -1,0 +1,1 @@
+python estoque_regional.py
